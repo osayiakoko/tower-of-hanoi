@@ -1,0 +1,11 @@
+{
+  "name": "tower-of-hanoi",
+  "version": "1.0.0",
+  "description": "test code for ExMachina",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Osayi Akoko",
+  "license": "ISC"
+}
